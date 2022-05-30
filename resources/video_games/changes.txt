@@ -10,6 +10,7 @@
 
 You can now have sex in-game--exclusive_group=<Sex>
 Removed sex --exclusive_group=<Sex>
+Added multiplayer capabilities to sex --exclusive_group=<Sex>
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
 New Battle Royale mode
@@ -147,6 +148,7 @@ Removed racially insensitive pinup pen pineapple reference
 Added optional “snuggle time” mini game
 Decreased probability of Random Chimp Event by 6.3% based on user feedback --exclusive_group=chimpevent
 Added new Art Deco style character models
+
 Added alternative “Not poggers” ending as based on user feedback
 Presence of 12 gauge shotgun increased
 Increased error message specificity and crash frequency
@@ -205,3 +207,6 @@ Added Jeff Bezos as a playable character
 Added Microsoft Clippy as a playable character
 Removed all instances of prime numbers from the game
 Added the 10th dentist as a miniboss
+Added Jedi Bob as a companion
+Added Super Idol as final boss
+Added double chance for Random Chimp Event during Monkey Day
