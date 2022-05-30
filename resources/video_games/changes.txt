@@ -209,4 +209,5 @@ Removed all instances of prime numbers from the game
 Added the 10th dentist as a miniboss
 Added Jedi Bob as a companion
 Added Super Idol as final boss
-Added double chance for Random Chimp Event during Monkey Day
+Added double chance for Random Chimp Event during Monkey Day --exclusive_group=chimps
+Added gays
